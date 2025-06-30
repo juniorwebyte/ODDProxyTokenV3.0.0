@@ -95,6 +95,15 @@ deployments/*/mock-token.json
 config/networks.cjs
 config/private.cjs
 config/secrets.cjs
+config/*.cjs
+config/*.js
+config/*.json
+
+# Arquivos de exemplo que contêm chaves privadas
+env.example
+config.example.js
+*.example
+*.example.*
 
 # Chaves privadas e arquivos de segurança
 *.pem
@@ -106,6 +115,27 @@ private.txt
 mnemonic.txt
 .secret
 .secrets
+*private*
+*secret*
+*key*
+*wallet*
+*mnemonic*
+
+# Arquivos que podem conter chaves privadas
+*.env
+*.env.*
+.env
+.env.*
+!*.env.example
+!env.example
+
+# Arquivos de configuração que podem ter chaves
+hardhat.config.local.cjs
+hardhat.config.private.cjs
+hardhat.config.secret.cjs
+config.local.*
+config.private.*
+config.secret.*
 
 # Arquivos de banco de dados
 *.sqlite
@@ -160,4 +190,14 @@ debug.log
 
 # Arquivos de configuração local
 .local/
-local.* 
+local.*
+
+# Arquivos que podem conter dados sensíveis
+*wallet*
+*account*
+*address*
+*private*
+*secret*
+*key*
+*password*
+*credential* 
