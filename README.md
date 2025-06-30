@@ -158,8 +158,8 @@ contract ODDProxyV2 is ERC20, Ownable, ReentrancyGuard, Pausable {
 
 ```bash
 # Clonar repositório
-git clone https://github.com/btcbr/btcbr-proxy-token-v3.git
-cd btcbr-proxy-token-v3
+git clone https://github.com/oddproxy/oddproxy-token-v3.git
+cd oddproxy-token-v3
 
 # Instalar dependências
 npm install
@@ -502,13 +502,13 @@ npm run security:check:mainnet
 
 ### 🐛 Reportar Bugs
 
-- Use o [GitHub Issues](https://github.com/btcbr/btcbr-proxy-token-v3/issues)
+- Use o [GitHub Issues](https://github.com/oddproxy/oddproxy-token-v3/issues)
 - Inclua informações detalhadas sobre o bug
 - Adicione logs e screenshots se relevante
 
 ### 💡 Sugestões
 
-- Abra uma [Issue](https://github.com/btcbr/btcbr-proxy-token-v3/issues) com a tag `enhancement`
+- Abra uma [Issue](https://github.com/oddproxy/oddproxy-token-v3/issues) com a tag `enhancement`
 - Descreva detalhadamente sua sugestão
 - Inclua exemplos de uso se aplicável
 
@@ -544,8 +544,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ### 📧 Contato
 
-- **GitHub**: [btcbr/btcbr-proxy-token-v3](https://github.com/btcbr/btcbr-proxy-token-v3)
-- **Issues**: [GitHub Issues](https://github.com/btcbr/btcbr-proxy-token-v3/issues)
+- **GitHub**: [oddproxy/oddproxy-token-v3](https://github.com/oddproxy/oddproxy-token-v3)
+- **Issues**: [GitHub Issues](https://github.com/oddproxy/oddproxy-token-v3/issues)
 - **Documentação**: [docs/](docs/)
 
 ---
