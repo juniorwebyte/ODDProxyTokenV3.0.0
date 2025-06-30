@@ -1,0 +1,14 @@
+{
+  "network": "bscTestnet",
+  "contractAddress": "0x2a0C35B5F9C8D2BebaC0a1aFC21C80e26e1AD38C",
+  "deployer": "0x0Fcf41A546b2de64aBDc320703dDD657dF802Eb4",
+  "timestamp": "2025-06-23T17:08:17.751Z",
+  "explorer": "https://testnet.bscscan.com/address/0x2a0C35B5F9C8D2BebaC0a1aFC21C80e26e1AD38C",
+  "parameters": {
+    "originalToken": "0x7a420357A01514F705f9a20fa640277BB564147f",
+    "uniswapRouter": "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3",
+    "motherWallet": "0x0Fcf41A546b2de64aBDc320703dDD657dF802Eb4",
+    "liquidityWallet": "0x0Fcf41A546b2de64aBDc320703dDD657dF802Eb4",
+    "priceFeed": "0x143db3CEEfbdfe5631aDD3E50f7614B6ba708BA7"
+  }
+}
